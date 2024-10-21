@@ -16,7 +16,7 @@ Proyek ini bertujuan untuk menganalisis persepsi konsumen terhadap Merek Azarine
 
 1. Clone repositori ini:
    ```bash
-   git clone https://github.com/username/nama-proyek.git](https://github.com/mutiarasny/analisis-sosial-media.git)
+   git clone https://github.com/mutiarasny/analisis-sosial-media.git
 2. Pastikan semua library yang digunakan telah di download
    ```bash
    pip install (name library)
