@@ -21,7 +21,7 @@ Proyek ini bertujuan untuk menganalisis persepsi konsumen terhadap Merek Azarine
    ```bash
    pip install (name library)
 
-3. Jalankan file ipynb
-4. 
+3. Jalankan file ipynb 
+
    
 [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try)
