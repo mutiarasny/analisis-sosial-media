@@ -1,5 +1,5 @@
 ## Analisis Sentimen dan Pemodelan Topik pada Media Sosial X
-Proyek ini bertujuan untuk menganalisis persepsi konsumen terhadap Merek Azarine di platform media sosial X. Analisis sentimen dilakukan menggunakan algoritma Naive Bayes, sementara metode Latent Dirichlet Allocation (LDA) digunakan untuk mengidentifikasi topik-topik utama yang dibahas dalam setiap tweet.
+Proyek ini bertujuan untuk menganalisis persepsi konsumen terhadap Merek Azarine di platform media sosial X. Analisis sentimen dilakukan menggunakan algoritma SVM, sementara metode Latent Dirichlet Allocation (LDA) digunakan untuk mengidentifikasi topik-topik utama yang dibahas dalam setiap tweet.
 
 ### Fitur Utama
 - Analisis sentimen menggunakan algoritma Naive Bayes
