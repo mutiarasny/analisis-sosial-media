@@ -2,7 +2,7 @@
 Proyek ini bertujuan untuk menganalisis persepsi konsumen terhadap Merek Azarine di platform media sosial X. Analisis sentimen dilakukan menggunakan algoritma SVM, sementara metode Latent Dirichlet Allocation (LDA) digunakan untuk mengidentifikasi topik-topik utama yang dibahas dalam setiap tweet.
 
 ### Fitur Utama
-- Analisis sentimen menggunakan algoritma Naive Bayes
+- Analisis sentimen menggunakan algoritma SVM
 - Pemodelan topik menggunakan LDA untuk menemukan topik populer dari sentimen positif dan negatif
 - Visualisasi hasil dengan grafik
 
